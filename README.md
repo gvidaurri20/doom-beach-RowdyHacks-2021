@@ -1,5 +1,7 @@
 # doom-beach-RowdyHacks-2021
-RowdyHacks Hackathon 2021 Unity Project that we worked on.
+RowdyHacks Hackathon 2021 Unity Project that we worked on.<br>
+Credit for assets/music/sounds used in our game is given below since we did not make those, but only borrowed them for use in our game.
+
 
 Game Title
 ------------- 
