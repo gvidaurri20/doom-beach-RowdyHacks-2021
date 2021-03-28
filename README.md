@@ -6,6 +6,11 @@ Game Title
 "Doom Beach"
 
 
+Team Name
+--------------
+"Senioritis & Done"
+
+
 Executing the Game
 ---------------------- 
 The executable for the game is located in the Builds folder.<br>
