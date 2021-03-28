@@ -11,7 +11,7 @@ Executing the Game
 The executable for the game is located in the Builds folder.
 Double-click "DoomBeach.exe" to play.
 
-doom-beach-RowdyHacks-2021\RowdyHacks 2021 Doom Beach\Builds
+doom-beach-RowdyHacks-2021/RowdyHacks 2021 Doom Beach/Builds/DoomBeach.exe
 
 
 How to Play
@@ -24,13 +24,13 @@ must survive all 5 waves of enemies. Each wave has more enemies than the previou
 
 Controls
 ----------------------
-w - foward movement
-a - left movement
-s - backwards movement 
-d - right movement
-esc - pause menu
-Mouse Movement - horizontal movement
-Mouse Click - fires weapon
+w - foward movement<br>
+a - left movement<br>
+s - backwards movement<br>
+d - right movement<br>
+esc - pause menu<br>
+Mouse Movement - horizontal movement<br>
+Mouse Click - fires weapon<br>
 
 
 Things We Each Worked On
