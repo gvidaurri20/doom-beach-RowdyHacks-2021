@@ -59,3 +59,34 @@ Christopher:<br>
 Joseph:<br>
 -Imported Palm Trees for Terrain<br>
 -First-Person Mouse Look for Player<br>
+
+
+
+Assets Downloaded for Use in Our Game
+----------------------------------------------------------
+The assets that we downloaded were the standard assets from the Unity Store:<br> 
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351<br> 
+
+And the gun from this link:<br> 
+https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916<br> 
+
+All other character/enemy animations were taken from www.mixamo.com<br> 
+-Ch18_nonPBR 1<br> 
+-Mutant<br> 
+-Nightshade_j_friedrich<br> 
+-Warrok_w_kurniawan<br> 
+
+
+Audio Sounds Used in Game
+-----------------------------
+5 sound waves were used in the game. With the exception of the laser weapon shooting sound, the other sound effects were taken from the following websites:<br>
+https://www.findsounds.com/ISAPI/search.dll?start=1&keywords=monster&seed=29<br>
+https://retired.sounddogs.com/results.asp?Type=1&CategoryID=1033&SubcategoryID=40<br>
+http://freesoundeffect.net/tags/item-pickup<br>
+
+
+Audio Music Used in Game
+--------------------------
+The free audio music tracks used in the game were downloaded from:<br>
+https://danosongs.com/<br>
+“Ghost Island” – Used during gameplay<br>
