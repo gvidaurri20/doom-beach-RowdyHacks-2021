@@ -6,6 +6,14 @@ Game Title
 "Doom Beach"
 
 
+Executing the Game
+---------------------- 
+The executable for the game is located in the Builds folder.
+Double-click "DoomBeach.exe" to play.
+
+doom-beach-RowdyHacks-2021\RowdyHacks 2021 Doom Beach\Builds
+
+
 How to Play
 --------------------
 There are 5 rounds of enemies that appear in the game. It is your job to kill them all.
