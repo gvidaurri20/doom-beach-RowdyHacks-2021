@@ -8,8 +8,8 @@ Game Title
 
 Executing the Game
 ---------------------- 
-The executable for the game is located in the Builds folder.
-Double-click "DoomBeach.exe" to play.
+The executable for the game is located in the Builds folder.<br>
+Double-click "DoomBeach.exe" to play.<br>
 
 doom-beach-RowdyHacks-2021/RowdyHacks 2021 Doom Beach/Builds/DoomBeach.exe
 
@@ -35,22 +35,22 @@ Mouse Click - fires weapon<br>
 
 Things We Each Worked On
 ----------------------------
-Gabriel:
--The player's weapon (including all scripts related to weapon damage)
--Ray Tracing 
--Enemies (including all scripts related to this feature and animation trees)
--Gameplay mechanics (such as enemy rounds and difficulty)
+Gabriel:<br>
+-The player's weapon (including all scripts related to weapon damage)<br>
+-Ray Tracing<br>
+-Enemies (including all scripts related to this feature and animation trees)<br>
+-Gameplay mechanics (such as enemy rounds and difficulty)<br>
 
-Felix:
--Map (terrain)
--Visual Arts (including any textures and the cacodemon model made in Blender)
+Felix:<br>
+-Map (terrain)<br>
+-Visual Arts (including any textures and the cacodemon model made in Blender)<br>
 
-Christopher:
--UI (all menus)
--Enemy Spawn Points
--Skybox
--Music and Sounds
+Christopher:<br>
+-UI (all menus)<br>
+-Enemy Spawn Points<br>
+-Skybox<br>
+-Music and Sounds<br>
 
-Joseph:
--Imported Palm Trees for Terrain
--First-Person Mouse Look for Player
+Joseph:<br>
+-Imported Palm Trees for Terrain<br>
+-First-Person Mouse Look for Player<br>
