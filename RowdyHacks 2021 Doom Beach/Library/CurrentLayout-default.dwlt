@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
+    x: 1920
     y: 43
-    width: 1366
-    height: 685
+    width: 1920
+    height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -44,9 +44,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
-    height: 685
-  m_MinSize: {x: 875, y: 300}
+    width: 1920
+    height: 997
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -65,7 +65,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1366
+    width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -86,8 +86,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 665
-    width: 1366
+    y: 977
+    width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -110,12 +110,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1366
-    height: 635
+    width: 1920
+    height: 947
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 63
+  controlID: 64
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,12 +135,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1087
-    height: 635
+    width: 1528
+    height: 947
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 64
+  controlID: 69
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,12 +160,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1087
-    height: 357
+    width: 1528
+    height: 532
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 65
+  controlID: 70
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,8 +183,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 245
-    height: 357
+    width: 482
+    height: 532
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -207,10 +207,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 245
+    x: 482
     y: 0
-    width: 842
-    height: 357
+    width: 1046
+    height: 532
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -237,9 +237,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 357
-    width: 1087
-    height: 278
+    y: 532
+    width: 1528
+    height: 415
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 17}
@@ -263,10 +263,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1087
+    x: 1528
     y: 0
-    width: 279
-    height: 635
+    width: 392
+    height: 947
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
@@ -427,10 +427,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 245
+    x: 2402
     y: 73
-    width: 840
-    height: 336
+    width: 1044
+    height: 511
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -440,7 +440,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 840, y: 315}
+  m_TargetSize: {x: 1044, y: 490}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -454,10 +454,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -420
-    m_HBaseRangeMax: 420
-    m_VBaseRangeMin: -157.5
-    m_VBaseRangeMax: 157.5
+    m_HBaseRangeMin: -522
+    m_HBaseRangeMax: 522
+    m_VBaseRangeMin: -255.5
+    m_VBaseRangeMax: 255.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -474,24 +474,24 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
-      width: 840
-      height: 315
+      y: 0
+      width: 1044
+      height: 511
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 420, y: 157.5}
+    m_Translation: {x: 522, y: 255.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -420
-      y: -157.5
-      width: 840
-      height: 315
+      x: -522
+      y: -255.5
+      width: 1044
+      height: 511
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 840, y: 336}
+  m_LastWindowPixelSize: {x: 1044, y: 511}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -518,31 +518,31 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
+    x: 1920
     y: 73
-    width: 244
-    height: 336
+    width: 481
+    height: 511
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 117}
-      m_SelectedIDs: 34370000
-      m_LastClickedID: 14132
-      m_ExpandedIDs: 70fbffff18390000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: caf2ffffe6f2ffff16f4ffff6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Cacodemon
-        m_OriginalName: Cacodemon
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 39590
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -573,10 +573,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 245
+    x: 2402
     y: 73
-    width: 840
-    height: 336
+    width: 1044
+    height: 511
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 1fd2176e3e96d014c838cd891dca9818
@@ -588,9 +588,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 186.80444, y: 37.204506, z: 312.01047}
+    m_Target: {x: 129.23418, y: 35.87153, z: 243.21764}
     speed: 2
-    m_Value: {x: 186.80444, y: 37.204506, z: 312.01047}
+    m_Value: {x: 129.23418, y: 35.87153, z: 243.21764}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -636,13 +636,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.02808477, y: -0.9718902, z: 0.16964462, w: -0.16091533}
+    m_Target: {x: -0.10788885, y: -0.72386235, z: 0.116306946, w: -0.67150587}
     speed: 2
-    m_Value: {x: -0.028084317, y: -0.9718746, z: 0.1696419, w: -0.16091274}
+    m_Value: {x: 0.10788884, y: 0.72386235, z: -0.116306946, w: 0.67150587}
   m_Size:
-    m_Target: 46.894833
+    m_Target: 0.90739506
     speed: 2
-    m_Value: 46.894833
+    m_Value: 0.90739506
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -714,10 +714,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 430
-    width: 1086
-    height: 257
+    x: 1920
+    y: 605
+    width: 1527
+    height: 394
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -732,35 +732,35 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Enemies
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/Enemies
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\gabri\Documents\GitHub\doom-beach-RowdyHacks-2021\RowdyHacks
+  m_LastProjectPath: C:\Users\root\Documents\spring2021\rowdyhacks\new\doom-beach-RowdyHacks-2021\RowdyHacks
     2021 Doom Beach
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f6400000
-    m_LastClickedID: 16630
-    m_ExpandedIDs: 00000000b83f0000ba3f0000bc3f0000be3f0000c03f0000c23f0000f640000022410000
+    m_SelectedIDs: 80400000
+    m_LastClickedID: 16512
+    m_ExpandedIDs: 0000000070400000724000007440000076400000784000007a4000007c4000007e4000008040000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Cacodemon
-      m_OriginalName: Cacodemon
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 16632
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -774,7 +774,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b63f0000b83f0000ba3f0000bc3f0000be3f0000c03f0000c23f0000c43f0000
+    m_ExpandedIDs: 0000000070400000724000007440000076400000784000007a4000007c4000007e40000080400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -801,7 +801,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d84e0000eaa60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -851,10 +851,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 430
-    width: 1086
-    height: 257
+    x: 1920
+    y: 605
+    width: 1527
+    height: 394
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:
@@ -877,10 +877,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1087
+    x: 3448
     y: 73
-    width: 278
-    height: 614
+    width: 391
+    height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
